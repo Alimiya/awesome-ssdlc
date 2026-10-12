@@ -1,6 +1,6 @@
 # Awesome SSDLC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Stars](https://img.shields.io/github/stars/Alimiya/awesome-ssdlc?style=flat-square)](https://github.com/Alimiya/awesome-ssdlc/stargazers) [![GitHub Forks](https://img.shields.io/github/forks/Alimiya/awesome-ssdlc?style=flat-square)](https://github.com/Alimiya/awesome-ssdlc/network/members) [![License: CC0](https://img.shields.io/badge/License-CC0%201.0%20Universal-brightgreen.svg?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-> A curated list of **Secure Software Development Lifecycle** resources, tools, frameworks, and methodologies for building security into every phase of software development.
+> A curated list of **Secure Software Development Lifecycle (Secure SDLC)** resources, tools, frameworks, and methodologies for building security into every phase of software development.
 
 ---
 
